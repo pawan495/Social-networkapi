@@ -1,4 +1,4 @@
-const { Thought, User } = require("../Challenge-SocialNetworkAPI/models");
+const { Thought, User } = require("../models");
 
 const thoughtController = {
    // get all thoughts

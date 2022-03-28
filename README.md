@@ -10,7 +10,7 @@ This application manages your business's data by tracking its various department
 
 # Installation Instructions
 
-[Instructional video provided here!](https://drive.google.com/file/d/1BX_0Hj7BDJCLzCFL20ZxNWdVdVYMCyWx/view)
+[Instructional video provided here!]()
 
 You must have Node.js installed on your system. Visit their [website](https://nodejs.org/en/download/) to download and install.
 
