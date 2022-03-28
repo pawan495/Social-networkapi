@@ -10,26 +10,17 @@ This application manages your business's data by tracking its various department
 
 # Installation Instructions
 
-[Instructional video provided here!]()
+[Instructional video provided here!](https://drive.google.com/file/d/14CIM_d0lC3DAqFPwUiH68lJRmFfeOCaM/view:)
 
-You must have Node.js installed on your system. Visit their [website](https://nodejs.org/en/download/) to download and install.
-
-You must also have MongoDB installed on your system. Visit their [website](https://www.mongodb.com/try/download/community) to download and install.
-
-To test the application, use Insomnia. Visit their [website](https://insomnia.rest/download) to download and install.
-
+You must have `Node.js` installed on your system. Visit their [website](https://nodejs.org/en/download/) to download and install.
+You must also have `MongoDB` installed on your system. Visit their [website](https://www.mongodb.com/try/download/community) to download and install.
+To test the application, use `Insomnia`. Visit their [website](https://insomnia.rest/download) to download and install.
+After you install everything in your system then you have to run code in your terminal
+`npm i` , `npm i express` & `npm i mongoose`
 Clone the repository code. In the terminal, navigate to the application's directory, then run the following command once:
-
-```
-npm install
-```
+`npm install`
 
 # Usage Intructions
 
-In the terminal, navigate to the application's directory, then run the following command:
-
-```
-npm start
-```
-
+In the terminal, navigate to the application's directory, then run the following command:`npm start`
 The application will execute in your terminal. Test the various routes using Insomnia.
