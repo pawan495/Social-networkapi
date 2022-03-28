@@ -10,7 +10,7 @@ This application manages your business's data by tracking its various department
 
 # Installation Instructions
 
-[Instructional video provided here!](https://drive.google.com/file/d/14CIM_d0lC3DAqFPwUiH68lJRmFfeOCaM/view:)
+[Instructional video provided here!]https://drive.google.com/file/d/14CIM_d0lC3DAqFPwUiH68lJRmFfeOCaM/view:
 
 You must have `Node.js` installed on your system. Visit their [website](https://nodejs.org/en/download/) to download and install.
 You must also have `MongoDB` installed on your system. Visit their [website](https://www.mongodb.com/try/download/community) to download and install.
